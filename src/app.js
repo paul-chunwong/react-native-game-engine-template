@@ -12,3 +12,4 @@ class App extends React.Component {
 }
 
 registerRootComponent(App);
+
